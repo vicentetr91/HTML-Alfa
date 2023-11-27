@@ -1,0 +1,69 @@
+html {
+    font-family:Prompt;
+    font-size: 100%;
+}
+
+body {
+    margin: 0px;
+}
+
+header {
+    background-color: #FFD4D0; 
+}
+
+.navegacion a {
+    font-size: 18px;
+    font-weight: 700;
+    color: #1F1F1F;
+    text-decoration: none;
+}
+
+.topbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+}
+
+.buttontalk {
+    background-color: black;
+    color: white;
+    padding-top: 12px;
+    padding-right: 24px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+}
+
+.headercontent {}
+
+.h1main {
+    font-size: 20px;
+    font-weight: 300;
+    
+}
+
+.h2header {
+    font-size: 48px;
+    color: #1F1F1F;
+    display: flex;
+    flex-direction: column;
+
+}
+.h2header span {
+    color: #FC3314;
+    font-size: 48px;
+    font-weight: 700;
+    
+    
+}
+
+
+.parrafoheader {
+    font-size: 16px;
+    color:  #1F1F1F ;
+
+}
+
+
+
