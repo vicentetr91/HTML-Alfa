@@ -5,12 +5,14 @@ html {
 
 body {
     margin: 0px;
-    
+
 }
 
 header {
+    
     background-color: #FFD4D0; 
 }
+
 
 .navegacion a {
     font-size: 18px;
