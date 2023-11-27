@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    
+
     background-color: #FFD4D0; 
 }
 
@@ -19,6 +19,7 @@ header {
     font-weight: 700;
     color: #1F1F1F;
     text-decoration: none;
+    padding-top: 10px;;
 }
 
 .topbar {
